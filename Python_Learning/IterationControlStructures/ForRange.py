@@ -9,7 +9,7 @@ for number in range(1,5):
 
 print("---------------------------")
 
-for number in range(1,7,2):
+for number in range(1,19,2):
     print ("The current number is ",number)
 
 print("---------------------------")

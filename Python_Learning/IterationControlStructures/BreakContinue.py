@@ -4,7 +4,7 @@ Created on 07-May-2020
 @author: raghuveer
 '''
 
-for passenger in "A","A", "FC", "C", "FA",  "SP", "A", "A":
+for passenger in "A","A", "FC", "C", "FA",  "SPL", "A", "A":
     if(passenger=="FC" or passenger=="FA"):
         print("No check required")
         continue  
