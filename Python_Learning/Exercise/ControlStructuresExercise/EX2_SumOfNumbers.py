@@ -11,11 +11,11 @@ Note: Initialize the number with various values and test your program.
 '''
 
 def sum_of_digits(number):
-    sum = 0
+    Total = 0
     while (number > 0):
-        sum += (number % 10)
+        Total += (number % 10)
         number = int(number / 10)
-    return sum
+    return Total
 
 num = input("Enter a number :")
 
