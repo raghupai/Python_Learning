@@ -5,7 +5,6 @@ Created on 07-May-2020
 '''
 
 def calculate_total_ticket_cost(no_of_adults, no_of_children):
-    total_ticket_cost=0
     ticket_price = 37550.0
     service_tax = 7
     discount = 10
